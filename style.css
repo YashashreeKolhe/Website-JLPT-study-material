@@ -100,7 +100,6 @@ h1 {
 }
 
 .remaining {
-	display: inline;
 	width: 100%;
 	height: 750px;
 	background: -webkit-linear-gradient(left,  rgb(114, 13, 33), rgb(255,255,255));
