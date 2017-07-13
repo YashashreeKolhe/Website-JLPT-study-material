@@ -1,0 +1,63 @@
+html {
+	margin: 0px;
+}
+
+body {
+	margin: 0px;
+}
+.heading {
+	margin: 0;
+	padding: 0;
+	background-color: rgb(114, 13, 33);
+	width:100%;
+	height: 125px;
+	color: rgb(0,0,0);
+}
+
+h1 {
+	margin: 0px;
+	font-family: "Comic Sans MS";
+	font-weight: 600;
+	color: rgb(252, 184, 203);
+	position: absolute;
+	left: 40%;
+	top: 30px;
+}
+.text {
+	text-align: center;
+	margin: 10px;
+}
+
+.background {
+	width: 100%;
+	height: 750px;
+	background: -webkit-linear-gradient(left,  rgb(114, 13, 33), rgb(255,255,255));
+}
+
+.register_contents {
+	position: relative;
+	top: 90px;
+	float: right;
+}
+
+#password {
+	margin: 10px 10px 10px 80px;
+}
+
+#email {
+	margin: 10px 10px 10px 110px;
+}
+
+#submit-btn {
+	margin: 10px 10px 10px 250px;
+}
+
+#fan {
+	width : 35%;
+	height: 40%;
+	min-width: 100px;
+	min-height: auto;
+	position: relative;
+	top: 70px;
+	left:70px;
+}
